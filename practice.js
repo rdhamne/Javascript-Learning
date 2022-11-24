@@ -28,3 +28,5 @@ console.log(car1["name"]);
 
 let car2 = new Car("swift", "white", 2016);
 console.log(car2["colour"]);
+
+//
